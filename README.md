@@ -1,13 +1,13 @@
 
 <div align="center">
 
-# Hi, I'm Md Aminul Islam Raju 👋
+# Hi, I'm Md Aminul Islam👋
 
 ### Data Analyst | Analytics Engineer | Python & SQL
 
 📍 Based in Europe
 
-🎓 MSc in Artificial Engineering | POLITEHNICA University of Bucharest
+🎓 MSc in  Artificial Intelligence Engineering | POLITEHNICA University of Bucharest
 
 💻 BSc in Software Engineering | Daffodil International University
 

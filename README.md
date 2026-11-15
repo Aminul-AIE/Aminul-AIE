@@ -1,6 +1,12 @@
 
 <div align="center">
 
+![Raju Data Analytics Banner](raju_github_banner.png)
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Md Aminul Islam👋
 
 ### Data Analyst | Analytics Engineer | Python & SQL
